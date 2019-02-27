@@ -8,7 +8,7 @@ GENERATOR:
       "-I/usr/include/libxml2"
     ]}
     - {name: LDFLAGS, flags: [
-    "-L/opt/share/mcloud/lib",
+    "-L../lib",
     "-lMCloud",
     "-lxml2",
     "-laudioutils",
