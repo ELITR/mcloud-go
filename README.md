@@ -9,7 +9,7 @@ All the binding code has automatically been generated with rules defined in [mcl
 You will need to get the [cgogen](https://git.io/cgogen) tool installed first.
 
 ```
-$ git clone https://github.com/xlab/mcloud-go && cd mcloud-go
+$ git clone https://github.com/ELITR/mcloud-go && cd mcloud-go
 $ make clean
 $ make build
 ```
