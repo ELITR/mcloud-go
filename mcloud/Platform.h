@@ -298,6 +298,7 @@ typedef signed char           int8_t;    /* integer  8 bit unsigned */
 //#define debug(msg,...) fprintf(stdout,msg,...)
 
 #else /* ================================= other */
+...
 
 #endif
 

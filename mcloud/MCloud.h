@@ -113,11 +113,6 @@ typedef enum {
   MCloudAC_OPUS
 } MCloudCodec;
 
-typedef struct MCloudService_S  MCloudService;
-typedef struct MCloudFlow_S     MCloudFlow;
-typedef struct MCloudQueueElt_S MCloudQueueElt;
-typedef struct MCloudQueue_S    MCloudQueue;
-
 /**
  * MCloud object.
  */
